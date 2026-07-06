@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Sakana AI — Research</title>
+    <link>https://sakana.ai/blog/?label=research</link>
+    <description>Filtered Sakana AI research posts for NetNewsWire and AI research brief workflows.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Jul 2026 14:44:12 +0000</lastBuildDate>
+    <atom:link href="https://cathyliucx.github.io/rss/sakana-research.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning Multi-Agent Coordination via Sheaf-ADMM</title>
+      <link>https://sakana.ai/sheaf-admm</link>
+      <guid isPermaLink="true">https://sakana.ai/sheaf-admm</guid>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+      <description>July 05, 2026 read more</description>
+    </item>
+    <item>
+      <title>Bridging Spherical Black-Box Optimizers</title>
+      <link>https://sakana.ai/bbob</link>
+      <guid isPermaLink="true">https://sakana.ai/bbob</guid>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+      <description>July 04, 2026 read more</description>
+    </item>
+    <item>
+      <title>Introducing Sakana AI’s Recursive Self-Improvement (RSI) Lab</title>
+      <link>https://sakana.ai/rsi-lab</link>
+      <guid isPermaLink="true">https://sakana.ai/rsi-lab</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <description>June 05, 2026 read more</description>
+    </item>
+    <item>
+      <title>DiffusionBlocks: Training Neural Networks One Block at a Time</title>
+      <link>https://sakana.ai/diffusion-blocks</link>
+      <guid isPermaLink="true">https://sakana.ai/diffusion-blocks</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <description>May 28, 2026 read more</description>
+    </item>
+    <item>
+      <title>Sparser, Faster, Lighter Transformer Language Models</title>
+      <link>https://sakana.ai/twell</link>
+      <guid isPermaLink="true">https://sakana.ai/twell</guid>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <description>May 09, 2026 read more</description>
+    </item>
+    <item>
+      <title>KAME: Tandem Architecture for Enhancing Knowledge in Real-Time Speech-to-Speech Conversational AI</title>
+      <link>https://sakana.ai/kame-icassp-2026</link>
+      <guid isPermaLink="true">https://sakana.ai/kame-icassp-2026</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <description>April 29, 2026 read more</description>
+    </item>
+    <item>
+      <title>Learning to Orchestrate Agents in Natural Language with the Conductor</title>
+      <link>https://sakana.ai/learning-to-orchestrate</link>
+      <guid isPermaLink="true">https://sakana.ai/learning-to-orchestrate</guid>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <description>April 27, 2026 read more</description>
+    </item>
+    <item>
+      <title>Trinity: An Evolved LLM Coordinator</title>
+      <link>https://sakana.ai/trinity</link>
+      <guid isPermaLink="true">https://sakana.ai/trinity</guid>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <description>April 26, 2026 read more</description>
+    </item>
+    <item>
+      <title>String Seed of Thought: Prompting LLMs for Distribution-Faithful and Diverse Generation</title>
+      <link>https://sakana.ai/ssot</link>
+      <guid isPermaLink="true">https://sakana.ai/ssot</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <description>April 21, 2026 read more</description>
+    </item>
+    <item>
+      <title>Digital Ecosystems: Interactive Multi-Agent Neural Cellular Automata</title>
+      <link>https://sakana.ai/digital-ecosystem</link>
+      <guid isPermaLink="true">https://sakana.ai/digital-ecosystem</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      <description>April 19, 2026 read more</description>
+    </item>
+    <item>
+      <title>The AI Scientist: Towards Fully Automated AI Research, Now Published in Nature</title>
+      <link>https://sakana.ai/ai-scientist-nature</link>
+      <guid isPermaLink="true">https://sakana.ai/ai-scientist-nature</guid>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <description>March 26, 2026 read more</description>
+    </item>
+    <item>
+      <title>Instant LLM Updates with Doc-to-LoRA and Text-to-LoRA</title>
+      <link>https://sakana.ai/doc-to-lora</link>
+      <guid isPermaLink="true">https://sakana.ai/doc-to-lora</guid>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <description>February 27, 2026 read more</description>
+    </item>
+    <item>
+      <title>RePo: Language Models with Context Re-Positioning</title>
+      <link>https://sakana.ai/repo</link>
+      <guid isPermaLink="true">https://sakana.ai/repo</guid>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <description>January 19, 2026 read more</description>
+    </item>
+    <item>
+      <title>Extending the Context of Pretrained LLMs by Dropping Their Positional Embeddings</title>
+      <link>https://sakana.ai/drope</link>
+      <guid isPermaLink="true">https://sakana.ai/drope</guid>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <description>January 12, 2026 read more</description>
+    </item>
+    <item>
+      <title>Digital Red Queen: Adversarial Program Evolution in Core War with LLMs</title>
+      <link>https://sakana.ai/drq</link>
+      <guid isPermaLink="true">https://sakana.ai/drq</guid>
+      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
+      <description>January 08, 2026 Survival of the Fittest Code. In the game Core War , assembly-like programs called “warriors” fight for control of a virtual computer. Warriors may employ sophisticated strategies including targeted self-replication, data bombing, and massive multithreading, in order to crash other programs, and dominate the machine. Top : We visualize battles between assembly programs (“warriors”) discovered by our Digital Red Queen (DRQ) algorithm. Each DRQ round introduces one additional warrior into the multi-agent simulation. Bottom : With more rounds, the LLM-driven evolution discovers increasingly robust strategies. By simulating these adversarial dynamics, we observe emergent behaviors that mirror biological evolution, where agents must constantly adapt simply to survive against ever-changing threats. Furthermore, as Core War is a Turing-complete environment where code and data share the same address space, this process leads to some very chaotic self-modifying code dynamics. read more</description>
+    </item>
+    <item>
+      <title>Sakana AI Agent Wins AtCoder Heuristic Contest (First AI to Place 1st)</title>
+      <link>https://sakana.ai/ahc058</link>
+      <guid isPermaLink="true">https://sakana.ai/ahc058</guid>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <description>January 05, 2026 First AI Agent to Win a Competitive Optimization Programming Contest (804 Participants, $1,300 Compute). Final Standings: https://atcoder.jp/contests/ahc058/standings read more</description>
+    </item>
+    <item>
+      <title>Petri Dish Neural Cellular Automata</title>
+      <link>https://sakana.ai/pd-nca</link>
+      <guid isPermaLink="true">https://sakana.ai/pd-nca</guid>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+      <description>November 05, 2025 read more</description>
+    </item>
+    <item>
+      <title>ShinkaEvolve: Evolving New Algorithms with LLMs, Orders of Magnitude More Efficiently</title>
+      <link>https://sakana.ai/shinka-evolve</link>
+      <guid isPermaLink="true">https://sakana.ai/shinka-evolve</guid>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <description>September 25, 2025 read more</description>
+    </item>
+    <item>
+      <title>Competition and Attraction Improve Model Fusion</title>
+      <link>https://sakana.ai/m2n2</link>
+      <guid isPermaLink="true">https://sakana.ai/m2n2</guid>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <description>August 25, 2025 read more</description>
+    </item>
+    <item>
+      <title>Inference-Time Scaling and Collective Intelligence for Frontier AI</title>
+      <link>https://sakana.ai/ab-mcts</link>
+      <guid isPermaLink="true">https://sakana.ai/ab-mcts</guid>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <description>July 01, 2025 Following our 2024 research on evolutionary model merging , a technique for “mixing to create” better models from existing ones (left), we are now tackling the challenge of “mixing to use” frontier models (right). We have developed AB-MCTS, a new inference-time scaling algorithm that enables multiple frontier AI models to cooperate, achieving promising initial results on the ARC-AGI-2 benchmark. read more</description>
+    </item>
+    <item>
+      <title>Reinforcement Learning Teachers of Test Time Scaling</title>
+      <link>https://sakana.ai/rlt</link>
+      <guid isPermaLink="true">https://sakana.ai/rlt</guid>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <description>June 23, 2025 read more</description>
+    </item>
+    <item>
+      <title>Towards Automating Long-Horizon Algorithm Engineering for Hard Optimization Problems</title>
+      <link>https://sakana.ai/ale-bench</link>
+      <guid isPermaLink="true">https://sakana.ai/ale-bench</guid>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <description>June 17, 2025 We introduce ALE-Bench, a coding benchmark inspired by hard optimization problems whose true optima are computationally out of reach (e.g., NP-hard). This benchmark enabled the development of our new coding agent, ALE-Agent, designed to tackle hard optimization problems. In May 2025, ALE-Agent achieved 21st out of 1,000 human participants in a live AtCoder Heuristic Competition (AHC), marking a turning point for AI discovery of solutions to hard optimization problems with important real world applications. read more</description>
+    </item>
+    <item>
+      <title>Text-to-LoRA: Instant Transformer Adaption</title>
+      <link>https://sakana.ai/text-to-lora</link>
+      <guid isPermaLink="true">https://sakana.ai/text-to-lora</guid>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <description>June 12, 2025 read more</description>
+    </item>
+    <item>
+      <title>The Darwin Gödel Machine: AI that improves itself by rewriting its own code</title>
+      <link>https://sakana.ai/dgm</link>
+      <guid isPermaLink="true">https://sakana.ai/dgm</guid>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <description>May 30, 2025 read more</description>
+    </item>
+    <item>
+      <title>Introducing Continuous Thought Machines</title>
+      <link>https://sakana.ai/ctm</link>
+      <guid isPermaLink="true">https://sakana.ai/ctm</guid>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <description>May 12, 2025 At Sakana AI we decided to rethink an important feature at the heart of cognition: time. The Continuous Thought Machine is a new kind of artificial neural network which uses the synchronization between neuron dynamics to solve tasks. read more</description>
+    </item>
+    <item>
+      <title>Sakana AI super-powers AI reasoning using Japan’s own Sudoku Puzzles</title>
+      <link>https://sakana.ai/sudoku-bench</link>
+      <guid isPermaLink="true">https://sakana.ai/sudoku-bench</guid>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <description>March 21, 2025 Can you solve the Sakana AI Sudoku Puzzle? read more</description>
+    </item>
+    <item>
+      <title>The AI Scientist Generates its First Peer-Reviewed Scientific Publication</title>
+      <link>https://sakana.ai/ai-scientist-first-publication</link>
+      <guid isPermaLink="true">https://sakana.ai/ai-scientist-first-publication</guid>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <description>March 12, 2025 A paper produced by The AI Scientist-v2 passed the peer-review process at a workshop in a top international AI conference. read more</description>
+    </item>
+    <item>
+      <title>TAID: A Novel Method for Efficient Knowledge Transfer from Large Language Models to Small Language Models</title>
+      <link>https://sakana.ai/taid</link>
+      <guid isPermaLink="true">https://sakana.ai/taid</guid>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <description>February 25, 2025 TAID has been accepted as a Spotlight Paper at ICLR, a top international conference in machine learning. With TAID, we have developed TinySwallow-1.5B, a Japanese small language model that achieves state-of-the-art performance among models of similar size. read more</description>
+    </item>
+    <item>
+      <title>Transformer²: Self-Adaptive LLMs</title>
+      <link>https://sakana.ai/transformer-squared</link>
+      <guid isPermaLink="true">https://sakana.ai/transformer-squared</guid>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <description>January 15, 2025 read more</description>
+    </item>
+    <item>
+      <title>Automating the Search for Artificial Life with Foundation Models</title>
+      <link>https://sakana.ai/asal</link>
+      <guid isPermaLink="true">https://sakana.ai/asal</guid>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <description>December 24, 2024 read more</description>
+    </item>
+    <item>
+      <title>An Evolved Universal Transformer Memory</title>
+      <link>https://sakana.ai/namm</link>
+      <guid isPermaLink="true">https://sakana.ai/namm</guid>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <description>December 10, 2024 read more</description>
+    </item>
+    <item>
+      <title>Population-based Model Merging via Quality Diversity</title>
+      <link>https://sakana.ai/cycleqd</link>
+      <guid isPermaLink="true">https://sakana.ai/cycleqd</guid>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <description>December 03, 2024 read more</description>
+    </item>
+    <item>
+      <title>The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery</title>
+      <link>https://sakana.ai/ai-scientist</link>
+      <guid isPermaLink="true">https://sakana.ai/ai-scientist</guid>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <description>August 13, 2024 read more</description>
+    </item>
+    <item>
+      <title>Can LLMs invent better ways to train LLMs?</title>
+      <link>https://sakana.ai/llm-squared</link>
+      <guid isPermaLink="true">https://sakana.ai/llm-squared</guid>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      <description>June 13, 2024 read more</description>
+    </item>
+    <item>
+      <title>Evolving New Foundation Models: Unleashing the Power of Automating Model Development</title>
+      <link>https://sakana.ai/evolutionary-model-merge</link>
+      <guid isPermaLink="true">https://sakana.ai/evolutionary-model-merge</guid>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <description>March 21, 2024 read more</description>
+    </item>
+  </channel>
+</rss>

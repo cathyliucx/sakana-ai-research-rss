@@ -1,0 +1,19 @@
+[project]
+name = "sakana-ai-research-rss"
+version = "0.1.0"
+description = "Generate a filtered RSS feed for Sakana AI research blog posts"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.13",
+    "python-dateutil>=2.9",
+    "pyyaml>=6.0",
+    "requests>=2.32",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3",
+]
+
+[tool.uv]
+package = false
