@@ -5,7 +5,7 @@
     <link>https://sakana.ai/blog/?label=research</link>
     <description>Filtered Sakana AI research posts for NetNewsWire and AI research brief workflows.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 04:19:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 09:58:08 +0000</lastBuildDate>
     <atom:link href="https://cathyliucx.github.io/rss/sakana-research.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learning Multi-Agent Coordination via Sheaf-ADMM</title>
