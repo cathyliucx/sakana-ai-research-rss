@@ -5,8 +5,15 @@
     <link>https://sakana.ai/blog/?label=research</link>
     <description>Filtered Sakana AI research posts for NetNewsWire and AI research brief workflows.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 08:43:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 14:13:35 +0000</lastBuildDate>
     <atom:link href="https://cathyliucx.github.io/rss/sakana-research.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UnMaskFork: Test-Time Scaling for Masked Diffusion via Deterministic Action Branching</title>
+      <link>https://sakana.ai/umf</link>
+      <guid isPermaLink="true">https://sakana.ai/umf</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <description>July 23, 2026 read more</description>
+    </item>
     <item>
       <title>Smart Cellular Bricks: Towards Collective Intelligence for the Physical World</title>
       <link>https://sakana.ai/smart-cellular-bricks</link>
