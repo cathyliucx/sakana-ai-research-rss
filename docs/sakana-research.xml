@@ -5,8 +5,15 @@
     <link>https://sakana.ai/blog/?label=research</link>
     <description>Filtered Sakana AI research posts for NetNewsWire and AI research brief workflows.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 23:54:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 09:56:00 +0000</lastBuildDate>
     <atom:link href="https://cathyliucx.github.io/rss/sakana-research.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing the Sakana AI Applied Research Lab</title>
+      <link>https://sakana.ai/applied-research-lab</link>
+      <guid isPermaLink="true">https://sakana.ai/applied-research-lab</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <description>November 24, 2026 read more</description>
+    </item>
     <item>
       <title>Introducing Sakana AI’s Security Research Group</title>
       <link>https://sakana.ai/security-research-group</link>
